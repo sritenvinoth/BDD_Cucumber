@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Thomas_Page/Menu_New Service Request",
+      "brokenLocator": "//button[@id\u003d\u0027contact|NoRelationship|Form|Sample.Form.contact.VeriTouch.NewServiceRequest31-button\u0027]/span/span[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//li[4]/button/span/span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Thomas_Page/Menu_New Service Request_position.png"
+    }
+  ]
+}
